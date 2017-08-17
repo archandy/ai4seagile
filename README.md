@@ -7,3 +7,5 @@ https://drive.google.com/open?id=0B4BzSx67_QztcDd6QmJRRjJLTHc
 - message@
 https://ai4seagile.slack.com/messages/
 
+- code share@
+https://github.com/archandy/ai4seagile
