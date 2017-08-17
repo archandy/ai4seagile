@@ -4,6 +4,6 @@
 - file share@
 https://drive.google.com/open?id=0B4BzSx67_QztcDd6QmJRRjJLTHc
 
--message@
+- message@
 https://ai4seagile.slack.com/messages/
 
